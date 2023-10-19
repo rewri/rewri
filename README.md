@@ -22,6 +22,20 @@ I'm Rérisson Fumes, a Web Developer working in Botucatu - Brasil.
 - 🚍: I’m currently working on Caio Induscar
 - 🤘 "First, solve the problem. Then, write the code." – John Johnson
 
-![rewri Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rewri&theme=monokai)
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="2">
+      <img height="300" align=top src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rewri&theme=monokai" />
+    </td>
+  <tr>
+  <tr>
+    <td valign="top">
+      <img height="250" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewri&langs_count=3&show_icons=true&count_private=true&hide_border=true&hide_title=false&theme=monokai" />
+    </td>
+    <td valign="top">
+      <img height="250" align=top src="https://github-readme-stats.vercel.app/api?username=rewri&show_icons=true&theme=monokai" />
+    </td>
+  </tr>
+</table>
 
-![rewri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rewri&show_icons=true&theme=monokai)
+
